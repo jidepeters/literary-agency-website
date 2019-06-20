@@ -1,0 +1,101 @@
+
+body {
+   background-color: #ff5b00f2;
+}
+
+header {
+   background-color: #cc3111;
+   color: white;
+   padding: 20px;
+   margin-left: 40px;
+   margin-right:40px;
+   margin-top: 20px; 
+   font-size: 1em;  
+}
+
+
+nav {
+   float: right;
+   margin-right: 20px;
+   word-spacing: 40px;
+   font-size: 1.2em;
+}
+
+
+.tile {
+   margin-left: 450px;
+   font-size: 1.6em;
+   line-height: 0.8em;
+   word-spacing: 0.2em;
+   color: white;
+   
+}
+
+
+.cat {
+   margin-top: 50px;
+   margin-left: 570px;
+   font-size: 1.4em;
+}
+
+article {
+   margin-left: 150px;
+   font-size: 1.2em;
+   line-height: 1.4em;
+   word-spacing: 0.2em;
+   color: white;
+}
+
+.num {
+   margin-top: 50px;
+   margin-left: 400px;
+   font-size: 1.2em;
+   line-height: 1.4em;
+   word-spacing: 0.2em;
+   color: white;
+}
+
+.ero {
+   margin-left: 340px;
+   margin-top: 50px;
+   font-size: 1.1em;
+   line-height: 1.4em;
+   word-spacing: 0.2em;
+}
+
+.ber {
+   margin-left: 500px;
+   font-size: 1.4em;
+}
+
+blockquote {
+   padding: 20px;
+   margin-top: 100px;
+   margin-right: 300px;
+   margin-left: 220px;
+   background-color: #cc3111;
+   color: white
+   
+}
+
+
+igroup {
+   margin-left: 700px;
+}
+
+ul {
+  list-style-type: none;
+  margin-left: 700px;
+}
+
+footer {
+   margin-left: 40px;
+   word-spacing: 0.2em;
+   color: white;
+}
+
+
+
+
+
+
