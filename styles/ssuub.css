@@ -1,0 +1,81 @@
+body {
+   background-color: #ff5b00f2;
+   
+}
+
+header {
+   background-color:  #cc3111;
+   color: white;
+   padding: 20px;
+   margin-left: 40px;
+   margin-right:40px;
+   margin-top: 20px; 
+   font-size: 1em;  
+}
+
+
+nav {
+   float: right;
+   margin-right: 20px;
+   word-spacing: 40px;
+   font-size: 1.2em;
+   
+}
+
+
+.tile {
+   margin-left: 450px;
+   font-size: 1.6em;
+   line-height: 0.8em;
+   word-spacing: 0.2em;
+   color: white;
+}
+
+footer {
+   word-spacing: 0.2em;
+   color: white;
+   margin-left: 40px; 
+}
+
+p {
+   font-size: 1.2em;
+   line-height: 1.4em;
+   word-spacing: 0.2em;
+   margin-left: 400px;   
+   margin-right: 300px;
+   color: white;
+}
+
+
+.num {
+  font-size: 1.4em;
+  font-family: Arial, sans serif;
+  margin-left: 200px;
+}
+
+
+.mail {
+   margin-left: 550px;   
+   margin-right: 450px;
+   padding-left: 20px;
+   background-color:  #cc3111;
+   color: white;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
