@@ -1,0 +1,57 @@
+body {
+   background-color: #ff5b00f2;
+   
+}
+
+header {
+   background-color: #cc3111;
+   color: white;
+   padding: 20px;
+   margin-left: 40px;
+   margin-right:40px;
+   margin-top: 20px; 
+   font-size: 1em;  
+}
+
+
+nav {
+   float: right;
+   margin-right: 20px;
+   word-spacing: 40px;
+   font-size: 1.2em;
+   
+}
+
+img {
+   margin-left: 40px;
+   width: 1270px;
+   height: 300px;
+   opacity: 0.60;
+}
+
+p {
+   margin-left: 450px;
+   font-size: 1.6em;
+   line-height: 0.8em;
+   word-spacing: 0.2em;
+   color: white;
+   
+}
+
+footer {
+   word-spacing: 0.2em;
+   color: white;
+   margin-left: 40px; 
+}
+
+
+
+
+
+
+
+
+
+
+
+
